@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/upfluence/dns-proxy",
+	"GoVersion": "go1.4",
+	"Deps": [
+		{
+			"ImportPath": "github.com/hashicorp/golang-lru",
+			"Rev": "0fa21a6ad005f6c81a44248105431f7c5ff359e0"
+		},
+		{
+			"ImportPath": "github.com/miekg/dns",
+			"Rev": "ca7706307e49a5ed3fb9179ff95a0867a78459d3"
+		}
+	]
+}
